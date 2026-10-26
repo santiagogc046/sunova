@@ -233,7 +233,7 @@ const PRODUCTOS = [
     nombre: 'Monitor Gamer Mtek',
     categoria: 'monitores',
     precio: 790000,
-    imagen: 'monitor-gamer-mtec-400.webp',
+    imagen: 'monitor-gamer-mtec',
     resumen: 'Monitor curvo de 24 pulgadas con resolución Full HD y 180Hz de velocidad de actualización.',
     detalles: [
         'Pantalla curva de 24 pulgadas Full HD',
