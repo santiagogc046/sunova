@@ -335,7 +335,7 @@ const modal = $('#productModal');
 function abrirDetalle(id) {
   const p = porId(id);
   if (!p) return;
-  $('#modalImg').src = `img/${p.imagen}.webp`;
+  $('#modalImg').src = img(p.imagen);
   $('#modalImg').alt = p.nombre;
   $('#modalCat').textContent = CATEGORIAS[p.categoria];
   $('#modalTitle').textContent = p.nombre;
