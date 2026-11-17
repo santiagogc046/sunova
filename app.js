@@ -70,7 +70,7 @@ const PRODUCTOS = [
     id: 'auricular-onikuma-gt808',
     nombre: 'Auricular Onikuma GT808',
     categoria: 'auriculares',
-    precio: 235000,
+    precio: 220000,
     imagen: 'auricular-onikuma-gt808',
     resumen: 'Sonido envolvente y micrófono con cancelación de ruido.',
     detalles: [
